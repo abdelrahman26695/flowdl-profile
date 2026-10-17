@@ -1,1 +1,39 @@
-   {}
+{
+  "name": {
+    "ar": "عبدالرحمن السيد",
+    "en": "Abdelrahman Elsayed"
+  },
+  "title": {
+    "ar": "مطوّر FlowDL",
+    "en": "FlowDL Developer"
+  },
+  "bio": {
+    "ar": "شكرًا لاستخدامك FlowDL! لو عندك اقتراح أو مشكلة، كلمني على أي حساب من تحت.",
+    "en": "Thanks for using FlowDL! Got a suggestion or a problem? Reach me on any account below."
+  },
+  "accent_color": "#1a73e8",
+  "announcement": {
+    "id": "welcome-1",
+    "text": {
+      "ar": "مرحبًا بيك في FlowDL! تابعني على حساباتي لأي جديد.",
+      "en": "Welcome to FlowDL! Follow me for updates."
+    },
+    "color": "#2e7d32"
+  },
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/abdelrahman26695",
+      "color": "#24292e"
+    }
+  ],
+  "app": {
+    "latest_version": "1.0.0",
+    "notes": {
+      "ar": "الإصدار الأول.",
+      "en": "First release."
+    },
+    "download_url": "https://github.com/abdelrahman26695/flowdl-profile"
+  },
+  "projects": []
+}
