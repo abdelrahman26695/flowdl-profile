@@ -1,37 +1,25 @@
 {
-  "name": {
-    "ar": "عبدالرحمن السيد",
-    "en": "Abdelrahman Elsayed"
-  },
-  "title": {
-    "ar": "مطوّر FlowDL",
-    "en": "FlowDL Developer"
-  },
+  "name": "Abdelrahman Elsayed",
+  "avatar_url": "https://raw.githubusercontent.com/abdelrahman26695/flowdl-profile/main/profile-photo.png",
   "bio": {
-    "ar": "شكرًا لاستخدامك FlowDL! لو عندك اقتراح أو مشكلة، كلمني على أي حساب من تحت.",
-    "en": "Thanks for using FlowDL! Got a suggestion or a problem? Reach me on any account below."
+    "en": "Thanks for using FlowDL! Got a suggestion or a problem? Reach me on GitHub.",
+    "ar": "شكراً لاستخدام FlowDL! لو عندك اقتراح أو مشكلة تواصل معايا على GitHub."
   },
-  "accent_color": "#1a73e8",
-  "announcement": {
-    "id": "welcome-1",
-    "text": {
-      "ar": "مرحبًا بيك في FlowDL! تابعني على حساباتي لأي جديد.",
-      "en": "Welcome to FlowDL! Follow me for updates."
-    },
-    "color": "#2e7d32"
-  },
+  "accent_color": "#1769e0",
   "links": [
     {
-      "title": "GitHub",
-      "url": "https://github.com/abdelrahman26695",
-      "color": "#24292e"
+      "title": {
+        "en": "GitHub",
+        "ar": "GitHub"
+      },
+      "url": "https://github.com/abdelrahman26695"
     }
   ],
   "app": {
     "latest_version": "1.0.0",
     "notes": {
-      "ar": "الإصدار الأول.",
-      "en": "First release."
+      "en": "First release.",
+      "ar": "أول إصدار."
     },
     "download_url": "https://github.com/abdelrahman26695/flowdl-profile"
   },
