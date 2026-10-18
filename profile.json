@@ -1,18 +1,20 @@
+
 {
   "name": "Abdelrahman Elsayed",
   "avatar_url": "https://raw.githubusercontent.com/abdelrahman26695/flowdl-profile/main/profile-photo.png",
   "bio": {
-    "en": "Thanks for using FlowDL! Got a suggestion or a problem? Reach me on GitHub.",
-    "ar": "شكراً لاستخدام FlowDL! لو عندك اقتراح أو مشكلة تواصل معايا على GitHub."
+    "en": "Thanks for using FlowDL! Got a suggestion or a problem? Reach me through my social accounts.",
+    "ar": "شكراً لاستخدام FlowDL! لو عندك اقتراح أو مشكلة تواصل معايا."
   },
   "accent_color": "#1769e0",
   "links": [
     {
-      "title": {
-        "en": "GitHub",
-        "ar": "GitHub"
-      },
+      "title": "GitHub",
       "url": "https://github.com/abdelrahman26695"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"
     }
   ],
   "app": {
