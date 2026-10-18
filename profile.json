@@ -1,1 +1,19 @@
-[]
+{
+  "name": "بيانات المطور",
+  "avatar_url": "",
+  "bio": {
+    "en": "Developer Information and Application Status.",
+    "ar": "بيانات المطور وحالة التطبيق."
+  },
+  "accent_color": "#7c3aed",
+  "links": [],
+  "app": {
+    "latest_version": "1.0.0",
+    "notes": {
+      "en": "The app is running on the latest version.",
+      "ar": "البرنامج يعمل على أحدث إصدار."
+    },
+    "download_url": ""
+  },
+  "projects": []
+}
