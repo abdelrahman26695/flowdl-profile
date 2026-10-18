@@ -3,8 +3,8 @@
   "name": "Abdelrahman Elsayed",
   "avatar_url": "https://raw.githubusercontent.com/abdelrahman26695/flowdl-profile/main/profile-photo.png",
   "bio": {
-    "en": "Thanks for using FlowDL! Got a suggestion or a problem? Reach me through my social accounts.",
-    "ar": "شكراً لاستخدام FlowDL! لو عندك اقتراح أو مشكلة تواصل معايا."
+    "en": "Welcome to FlowDL! Have a suggestion, found an issue, or need help? Feel free to connect with me through my social accounts.",
+    "ar": "أهلاً بيك في FlowDL! عندك اقتراح أو واجهتك مشكلة؟ يسعدني تواصلك معايا من خلال حساباتي."
   },
   "accent_color": "#1769e0",
   "links": [
@@ -20,8 +20,8 @@
   "app": {
     "latest_version": "1.0.0",
     "notes": {
-      "en": "First release.",
-      "ar": "أول إصدار."
+      "en": "The first official release of FlowDL.",
+      "ar": "أول إصدار رسمي من FlowDL."
     },
     "download_url": "https://github.com/abdelrahman26695/flowdl-profile"
   },
