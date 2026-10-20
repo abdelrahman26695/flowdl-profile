@@ -1,19 +1,26 @@
 {
-  "name": "بيانات المطور",
-  "avatar_url": "",
+  "name": "Abdelrahman Elsayed",
+  "avatar_url": "https://raw.githubusercontent.com/abdelrahman26695/flowdl-profile/main/profile-photo.png",
+  "accent_color": "#eab308",
   "bio": {
-    "en": "Developer Information and Application Status.",
-    "ar": "بيانات المطور وحالة التطبيق."
+    "en": "Welcome to FlowDL! Have a suggestion, found an issue, or need help? Feel free to connect with me through my social accounts."
   },
-  "accent_color": "#7c3aed",
-  "links": [],
+  "links": [
+    {
+      "title": "GitHub",
+      "url": "https://github.com/abdelrahman26695"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/abdelrahmanelsayed/"
+    }
+  ],
   "app": {
     "latest_version": "1.0.0",
     "notes": {
-      "en": "The app is running on the latest version.",
-      "ar": "البرنامج يعمل على أحدث إصدار."
+      "en": "The first official release of FlowDL."
     },
-    "download_url": ""
+    "download_url": "https://github.com/abdelrahman26695/flowdl-profile"
   },
   "projects": []
 }
