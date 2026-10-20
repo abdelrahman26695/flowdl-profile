@@ -1,4 +1,15 @@
 {
-  "avatar_url": "https://raw.githubusercontent.com/abdelrahman26695/flowdl-profile/main/profile-photo.png",
-  "cover_url": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cover.jpg"
+  "name": "Abdelrahman Elsayed",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/YOUR-USERNAME/",
+      "color": "#0077B5"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/YOUR-USERNAME",
+      "color": "#24292F"
+    }
+  ]
 }
