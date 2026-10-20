@@ -1,9 +1,4 @@
 {
-  "accent_color": "#0077b5",
-  "links": [
-    {
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/in/abdelrahman-elsayed-97b323432"
-    }
-  ]
+  "avatar_url": "https://raw.githubusercontent.com/abdelrahman26695/flowdl-profile/main/profile-photo.png",
+  "cover_url": "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/cover.jpg"
 }
